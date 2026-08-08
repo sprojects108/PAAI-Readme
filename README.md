@@ -1,4 +1,5 @@
 **AI-Powered Multi-Tenant Receptionist SaaS for Local Businesses**
+
 Live Demo: paai-ai.vercel.app
 
 PAAI Autopilot is a production-grade, multi-tenant SaaS platform that gives local businesses — salons, auto detailers, plumbers, and 100+ other industries — their own AI-powered receptionist. Each business gets a personalized chat widget, voice AI, appointment booking, dynamic pricing, SMS confirmations, and a full management dashboard — all powered by a triple AI engine (OpenAI + Google Gemini + OpenRouter) with real-time function calling and automatic runtime failover.
