@@ -1,8 +1,7 @@
-## About Me
+**AI-Powered Multi-Tenant Receptionist SaaS for Local Businesses**
+Live Demo: paai-ai.vercel.app
 
-I'm a full-stack software engineer focused on building production-ready AI applications and business automation systems.
-
-One of my flagship projects is **PAAI Autopilot**, an AI-powered receptionist SaaS platform built for local businesses. It combines multiple LLMs, AI agents, workflow automation, voice AI, appointment booking, and retrieval-augmented generation (RAG) into a single production system.
+PAAI Autopilot is a production-grade, multi-tenant SaaS platform that gives local businesses — salons, auto detailers, plumbers, and 100+ other industries — their own AI-powered receptionist. Each business gets a personalized chat widget, voice AI, appointment booking, dynamic pricing, SMS confirmations, and a full management dashboard — all powered by a triple AI engine (OpenAI + Google Gemini + OpenRouter) with real-time function calling and automatic runtime failover.
 
 ### What I've Built
 
